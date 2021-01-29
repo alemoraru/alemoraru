@@ -6,7 +6,9 @@
 
 - 🤔 &nbsp; Answering questions and questioning answers bit by bit
 - 🎓 &nbsp; Third year student of BSc Computer Science & Engineering at TU Delft
-- :construction: Minor in Architecture at TU Delft
+- :construction: &nbsp; Minor in Architecture at TU Delft
+- :books: &nbsp; Avid reader of classics literature
+- :speaking_head: &nbsp; Speaking :uk:, :romania:, :fr:, :netherlands:
 
 ### 🛠 &nbsp;Tech Stack
 
