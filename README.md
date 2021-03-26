@@ -38,6 +38,8 @@
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Intellij](https://img.shields.io/badge/-Intellij-informational?style=flat&logo=Intellij%20IDEA&logoColor=white&color=333333)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=333333)
 
 ## My Stats
 <p>
