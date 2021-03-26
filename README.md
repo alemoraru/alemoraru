@@ -16,6 +16,7 @@
 - 🌐 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-informational?style=flat&logo=Java&logoColor=white&color=333333)
   ![Scala](https://img.shields.io/badge/-Scala-informational?style=flat&logo=Scala&logoColor=white&color=333333)
+  ![Haskell](https://img.shields.io/badge/-Haskell-informational?style=flat&logo=Haskell&logoColor=white&color=333333)
   ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=333333)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
