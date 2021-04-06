@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Answering questions and questioning answers bit by bit
-- :mag_right: &nbsp; Currently focusing on Software Engineering and Data Science
+- :mag_right: &nbsp; Currently focusing on Software Engineering and Programming Languages
 - 🎓 &nbsp; Third year student of BSc Computer Science & Engineering at TU Delft
 - :construction: &nbsp; Minor in Architecture at TU Delft
 - :books: &nbsp; Avid reader of classics literature
