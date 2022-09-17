@@ -5,8 +5,9 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Answering questions and questioning answers bit by bit
-- :mag_right: &nbsp; Currently focusing on Software Engineering and Programming Languages
-- 🎓 &nbsp; Graduated with a BSc Computer Science & Engineering at TU Delft
+- 💻 &nbsp; Working as a Software Engineer at TomTom in Amsterdam, The Netherlands
+- 🎓 &nbsp; Following a MSc in Computer Science at TU Delft, focusing on Software Engineering and Programming Languages
+- 👨‍🎓 &nbsp; Graduated with a BSc Computer Science & Engineering at TU Delft
 - :construction: &nbsp; Minor in Architecture at TU Delft
 - :books: &nbsp; Avid reader of classics literature
 - :speaking_head: &nbsp; Speaking English:uk:, Romanian:romania:, French:fr:, and some Dutch:netherlands:
@@ -15,15 +16,23 @@
 
 - 🌐 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-informational?style=flat&logo=Java&logoColor=white&color=333333)
+  ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=333333)
+  ![Bash](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=333333)
   ![Scala](https://img.shields.io/badge/-Scala-informational?style=flat&logo=Scala&logoColor=white&color=333333)
   ![Haskell](https://img.shields.io/badge/-Haskell-informational?style=flat&logo=Haskell&logoColor=white&color=333333)
-  ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=333333)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![C++](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=333333)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Bash](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=333333)
+  
+- ☁️ &nbsp;
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=333333)
+  ![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=Docker&logoColor=white&color=333333)
+  ![Azure](https://img.shields.io/badge/-Azure-informational?style=flat&logo=Azure&\=white&color=333333)
+  ![Terraform](https://img.shields.io/badge/-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=333333)
+  ![Ansible](https://img.shields.io/badge/-Ansible-informational?style=flat&logo=Ansible&logoColor=white&color=333333)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=333333)
   
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
