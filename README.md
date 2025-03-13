@@ -12,7 +12,7 @@
 - 📖 &nbsp; Passionate about cloud automation, security, and explainable AI
 - 📚 &nbsp; Avid reader of classics literature
 - 🏃🏻 &nbsp; Running/Swimming/Cycling enthusiast
-- 🗣️ &nbsp; Speaking English:uk:, Romanian:romania:, French:fr:, and some Dutch:netherlands:
+- 🗣️ &nbsp; Speaking English 🇬🇧, Romanian 🇷🇴, French 🇫🇷, and some Dutch 🇳🇱
 
 ### 🛠 &nbsp;Tech Stack - PLs, Tools, and Frameworks
 
