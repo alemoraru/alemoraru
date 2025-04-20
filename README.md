@@ -44,13 +44,14 @@
 🛠️ &nbsp; Familiar / Non-production Usage or Research / Limited usage or exposure
 
 ![Haskell](https://img.shields.io/badge/-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=D2042D)
-![Node.js](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=D2042D)
+![node.js](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=D2042D)
 ![Ansible](https://img.shields.io/badge/-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=D2042D)
 ![C++](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=D2042D)
 ![HTML](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&logoColor=white&color=D2042D)
 ![CSS](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=D2042D)
+![React](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=D2042D)
+![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=D2042D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=D2042D)
-![node.js](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=D2042D)
 ![Kafka](https://img.shields.io/badge/-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=D2042D)
 ![Flink](https://img.shields.io/badge/-Flink-informational?style=flat&logo=apache-flink&logoColor=white&color=D2042D)
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-informational?style=flat&logo=gitlab&logoColor=white&color=D2042D)
@@ -58,11 +59,10 @@
 ![Redis](https://img.shields.io/badge/-Redis-informational?style=flat&logo=redis&logoColor=white&color=D2042D)
 
 
-📖 &nbsp; Learning wish list / Want to use
+📖 &nbsp; Learning "wish-list" / Want to use
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=grey)
 ![Android](https://img.shields.io/badge/-Android-informational?style=flat&logo=android&logoColor=white&color=grey)
-![React](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=grey)
 ![Go](https://img.shields.io/badge/-Go-informational?style=flat&logo=go&logoColor=white&color=grey)
 
 ## 📊 &nbsp; My Stats
