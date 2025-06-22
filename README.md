@@ -2,12 +2,16 @@
 
 ## I'm Alex! Alternatively, people call me Canada 🍁 It's a long story :)
 
-### 💻 &nbsp;About Me 
+### 💻 &nbsp;About Me
 
 - 🤔 &nbsp; Answering questions and questioning answers bit by bit
 - 💻 &nbsp; Currently working as a Software Engineer at [TomTom](https://www.tomtom.com/) in Amsterdam, The Netherlands
-- 🎓 &nbsp; Currently following a [MSc in Computer Science at TU Delft](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science), focusing on Software Engineering, Web Information Systems and Programming Languages
-- 👨‍🎓 &nbsp; Graduated with a BSc Computer Science & Engineering at TU Delft, with a specialization in Data Engineering and focus on Programming Languages (thesis)
+- 🎓 &nbsp; Currently following
+  an [M.Sc. in Computer Science at TU Delft](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science),
+  focusing on Software Engineering, Web Information Systems and Programming Languages
+- 👨‍🎓 &nbsp; Graduated with a B.Sc. Computer Science & Engineering at TU Delft, with a specialization in Data
+  Engineering
+  and focus on Programming Languages (thesis)
 - 🏗️ &nbsp; Minor in Architecture at TU Delft
 - 📖 &nbsp; Passionate about cloud automation, security, and explainable AI
 - 📚 &nbsp; Avid reader of classics literature
@@ -50,6 +54,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&logoColor=white&color=D2042D)
 ![CSS](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=D2042D)
 ![React](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=D2042D)
+![Next.js](https://img.shields.io/badge/-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=D2042D)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=D2042D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=D2042D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=D2042D)
 ![Kafka](https://img.shields.io/badge/-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=D2042D)
@@ -57,7 +63,6 @@
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-informational?style=flat&logo=gitlab&logoColor=white&color=D2042D)
 ![Jekyll](https://img.shields.io/badge/-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=D2042D)
 ![Redis](https://img.shields.io/badge/-Redis-informational?style=flat&logo=redis&logoColor=white&color=D2042D)
-
 
 📖 &nbsp; Learning "wish-list" / Want to use
 
@@ -69,13 +74,13 @@
 
 <p>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alemoraru&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemoraru&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alemoraru&show_icons=true&theme=radical"  alt="github-user-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemoraru&theme=radical&layout=compact&exclude_lang=java+r"  alt="github-user-top-languages"/>
 </a>
 </p>
 
 ## 🤝🏻 &nbsp;Connect with Me
 
-[![](https://img.shields.io/badge/-Homepage-informational?style=flat&logo=github&color=181717&logoColor=ffffff)](https://alemoraru.github.io/)
-[![](https://img.shields.io/badge/-Email%20me%21-informational?style=flat&logo=gmail&color=ea4335&logoColor=ffffff)](mailto:alexradumoraru@yahoo.com)
-[![](https://img.shields.io/badge/-Linkedin-informational?style=flat&logo=linkedin&color=0077b5&logoColor=ffffff)](https://www.linkedin.com/in/alexandru-moraru-730788179/)
+[![GitHub](https://img.shields.io/badge/-Homepage-informational?style=flat&logo=github&color=181717&logoColor=ffffff)](https://alemoraru.github.io/)
+[![Email](https://img.shields.io/badge/-Email%20me%21-informational?style=flat&logo=gmail&color=ea4335&logoColor=ffffff)](mailto:alexradumoraru@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-informational?style=flat&logo=linkedin&color=0077b5&logoColor=ffffff)](https://www.linkedin.com/in/alexandru-moraru-730788179/)
