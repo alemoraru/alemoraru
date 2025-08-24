@@ -75,7 +75,7 @@
 <p>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alemoraru&show_icons=true&theme=radical"  alt="github-user-stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemoraru&theme=radical&layout=compact&exclude_lang=java+r"  alt="github-user-top-languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemoraru&theme=radical&layout=compact&exclude_lang=java+r&hide=jupyter%20notebook&langs_count=8"  alt="github-user-top-languages"/>
 </a>
 </p>
 
