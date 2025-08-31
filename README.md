@@ -28,6 +28,9 @@
 
 ![Java](https://img.shields.io/badge/-Java-informational?style=flat&logo=openjdk&logoColor=white&color=0047AB)
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=0047AB)
+![React](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=D2042D)
+![Next.js](https://img.shields.io/badge/-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=D2042D)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=D2042D)
 ![Bash](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0047AB)
 ![Linux](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=0047AB)
 ![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=0047AB)
@@ -39,6 +42,7 @@
 
 🌻 &nbsp; Comfortable / Regularly or sometimes used for production
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=D2042D)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=black&color=FFFF00)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=black&color=FFFF00)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=black&color=FFFF00)
@@ -57,10 +61,6 @@
 ![C++](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=D2042D)
 ![HTML](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&logoColor=white&color=D2042D)
 ![CSS](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=D2042D)
-![React](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=D2042D)
-![Next.js](https://img.shields.io/badge/-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=D2042D)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=D2042D)
-![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=D2042D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=D2042D)
 ![Kafka](https://img.shields.io/badge/-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=D2042D)
 ![Flink](https://img.shields.io/badge/-Flink-informational?style=flat&logo=apache-flink&logoColor=white&color=D2042D)
