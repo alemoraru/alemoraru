@@ -5,14 +5,18 @@
 ### 💻 &nbsp;About Me
 
 - 🤔 &nbsp; Answering questions and questioning answers bit by bit
-- 💻 &nbsp; Currently working as a Software Engineer at [TomTom](https://www.tomtom.com/) in Amsterdam, The Netherlands
-- 🎓 &nbsp; Currently following
-  an [M.Sc. in Computer Science at TU Delft](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science),
-  focusing on Software Engineering, Web Information Systems and Programming Languages
-- 👨‍🎓 &nbsp; Graduated with a B.Sc. Computer Science & Engineering at TU Delft, with a specialization in Data
-  Engineering
-  and focus on Programming Languages (thesis)
-- 🏗️ &nbsp; Minor in Architecture at TU Delft
+- 🔨 &nbsp; Currently in full-build mode.
+- 💻 &nbsp; Formerly built cool and efficient navigation software and maps as a Software Engineer
+  at [TomTom](https://www.tomtom.com/) in Amsterdam, The Netherlands
+- 🎓 &nbsp; Graduated with
+  an [M.Sc. degree in Computer Science at TU Delft](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science),
+  in the Software Technology track, taking the majority of courses from the following research
+  groups: [Web Information Systems](https://www.wis.ewi.tudelft.nl/), [Software Engineering](https://se.ewi.tudelft.nl/),
+  and [Programming Languages](https://pl.ewi.tudelft.nl/)
+- 👨‍🎓 &nbsp; Graduated with
+  a [B.Sc. degree in Computer Science & Engineering at TU Delft](https://www.tudelft.nl/en/onderwijs/opleidingen/bachelors/computer-science-and-engineering/bachelor-of-computer-science-and-engineering),
+  with a specialization in Data Engineering and focus on Programming Languages (thesis)
+- 🏗️ &nbsp; [Minor in Architecture at TU Delft](https://www.tudelft.nl/bk/studeren/minoren-en-keuzevakken/archineering)
 - 📖 &nbsp; Passionate about cloud automation, security, and explainable AI
 - 📚 &nbsp; Avid reader of classics literature
 - 🏃🏻 &nbsp; Running/Swimming/Cycling enthusiast
