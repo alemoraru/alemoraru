@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me
 
 - 🤔 &nbsp; Answering questions and questioning answers bit by bit
-- 🔨 &nbsp; Currently in full-build mode.
+- 🔨 &nbsp; Currently in full-build mode [@Ptolemy](https://github.com/ptolemy-ai)
 - 💻 &nbsp; Formerly built cool and efficient navigation software and maps as a Software Engineer
   at [TomTom](https://www.tomtom.com/) in Amsterdam, The Netherlands
 - 🎓 &nbsp; Graduated with
