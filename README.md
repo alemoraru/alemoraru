@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Answering questions and questioning answers bit by bit
 - 🔨 &nbsp; Currently in full-build mode [@Ptolemy](https://github.com/ptolemy-ai)
-- 💻 &nbsp; Formerly built cool and efficient navigation software and maps as a Software Engineer
+- 💻 &nbsp; Formerly built cool and efficient navigation software and maps as a Senior Software Engineer
   at [TomTom](https://www.tomtom.com/) in Amsterdam, The Netherlands
 - 🎓 &nbsp; Graduated with
   an [M.Sc. degree in Computer Science at TU Delft](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science),
@@ -18,8 +18,8 @@
   with a specialization in Data Engineering and focus on Programming Languages (thesis)
 - 🏗️ &nbsp; [Minor in Architecture at TU Delft](https://www.tudelft.nl/bk/studeren/minoren-en-keuzevakken/archineering)
 - 📖 &nbsp; Passionate about cloud automation, security, and explainable AI
-- 📚 &nbsp; Avid reader of classics literature
-- 🏃🏻 &nbsp; Running/Swimming/Cycling enthusiast
+- 📚 &nbsp; Avid reader of English classics literature, and beyond
+- 🏃🏻 &nbsp; Running/Swimming/Cycling/Skier enthusiast
 - 🗣️ &nbsp; Speaking English 🇬🇧, Romanian 🇷🇴, French 🇫🇷, and some Dutch 🇳🇱
 
 ### 🛠 &nbsp;Tech Stack - PLs, Tools, and Frameworks
@@ -29,6 +29,7 @@
 ![Java](https://img.shields.io/badge/-Java-informational?style=flat&logo=openjdk&logoColor=white&color=0047AB)
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=0047AB)
 ![React](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=0047AB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=0047AB)
 ![Next.js](https://img.shields.io/badge/-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=0047AB)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=0047AB)
 ![Bash](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0047AB)
@@ -42,7 +43,6 @@
 
 🌻 &nbsp; Comfortable / Regularly or sometimes used for production
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=black&color=FFFF00)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=black&color=FFFF00)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=black&color=FFFF00)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=black&color=FFFF00)
