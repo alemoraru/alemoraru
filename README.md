@@ -80,3 +80,8 @@
 [![GitHub](https://img.shields.io/badge/-Homepage-informational?style=flat&logo=github&color=181717&logoColor=ffffff)](https://alemoraru.github.io/)
 [![Email](https://img.shields.io/badge/-Email%20me%21-informational?style=flat&logo=gmail&color=ea4335&logoColor=ffffff)](mailto:alexradumoraru@yahoo.com)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-informational?style=flat&logo=linkedin&color=0077b5&logoColor=ffffff)](https://www.linkedin.com/in/alexandru-moraru-730788179/)
+
+## 📊 Some GitHub Flex Stats (_for public GitHub content_)
+
+![Languages](https://github-flex.vercel.app/api/languages?username=alemoraru&theme=dark&exclude=Jupyter%20Notebook,MDX)
+![Stats](https://github-flex.vercel.app/api/stats?username=alemoraru&theme=dark)
